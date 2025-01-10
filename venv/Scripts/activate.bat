@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\CltControl\Desktop\acceptance\ACCEPTANCE-TEST-WORKSHOP\venv
+set VIRTUAL_ENV=C:\Users\wayar\OneDrive\Escritorio\Acceptance\ACCEPTANCE-TEST-WORKSHOP\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
